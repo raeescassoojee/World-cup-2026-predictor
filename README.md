@@ -6,6 +6,10 @@ An ML-powered web application that predicts international football match outcome
 ![ML](https://img.shields.io/badge/ML-XGBoost-orange)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-red)
 
+## Dashboard Preview
+
+![Dashboard Screenshot](screenshot.png)
+
 ## Overview
 
 This project analyses 49,071 international football matches to predict match outcomes between any two national teams. It features an interactive Streamlit dashboard with win probabilities, team comparisons, head-to-head records, and radar charts.
